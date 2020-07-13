@@ -9,4 +9,5 @@ http://www.cirmall.com/bbs/thread-46706-1-1.html
 Download the app using:
 
 git clone https://github.com/intelleum/AD7606_RaspberryPi_C.git
+
 cd AD7606_RaspberryPi_C
